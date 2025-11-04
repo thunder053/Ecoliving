@@ -53,7 +53,7 @@ img{display:block;max-width:100%;height:auto}
 .btn-ghost{background:#e7f3ed;color:var(--g-800);border-color:transparent}
 .btn-ghost:hover{background:#d9eee4}
 
-/* Hero */
+
 .hero{
   background:linear-gradient(180deg, var(--bg) 0%, #e9f4ee 100%);
   padding:64px 0 48px;
